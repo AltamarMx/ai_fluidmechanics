@@ -1,4 +1,4 @@
-# ai_fluidmechanics
+# Artificial Neural Networks for fluid mechanics
 Repository with codes for the Turbulence class using artificial intelligente
 lectured at the IER-UNAM.
 
